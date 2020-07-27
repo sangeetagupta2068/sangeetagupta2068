@@ -1,17 +1,1 @@
-### Hi there 👋
-
-<!--
-**sangeetagupta2068/sangeetagupta2068** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<p align = "center">Hi! I am Sangeeta Gupta and I am thrilled by communities. I am working on mobile development and learning Augmented Reality! 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Mobile Development
-- 🌱 I’m currently learning Augmented Reality
-- 👯 I’m looking to collaborate on ...
-🤔 I’m looking for help with getting started with open source communities
-- 💬 Ask me about ...
-📫 How to reach me: https://www.linkedin.com/in/sangeeta-gupta-943184140/
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">I am passionate about building sustainable tech ecosystems and advocate for the growth of women in technology. I lead Facebook Developer Circles, Pune and have built a vibrant ecosystem of 6K+ aspiring and experienced local developers who are looking out to build new skills, grow ideas and boost their careers in technology. In 2018, I received the AnitaB.org Grace Hopper Celebration India Scholarship for exhibiting strong leadership and technical skills. For my strong beliefs of giving back to my roots, I served as an educator for information and communication technology to over 50 children with multiple disabilities in Assam. Currently, I am pursuing my MSc in Computer Applications at Symbiosis International (Deemed) University and looking to connect with people who share the same interest of growing, scaling and building communities!</p>
